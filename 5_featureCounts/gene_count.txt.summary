@@ -1,0 +1,15 @@
+Status	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821918_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821919_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821920_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821921_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821922_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821937_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821938_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821939_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821949_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821950_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821951_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821952_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821953_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821968_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821969_sorted.bam	/data/users/mhussein/RNA_sequencing/4_SAMtools/BAM_files/SRR7821970_sorted.bam
+Assigned	29714076	29322935	29701480	32707765	30253897	36437466	34866299	37820475	22539392	17108144	25111172	17634867	16181584	20441311	13082012	17023458
+Unassigned_Unmapped	323782	250884	1148912	295828	263683	350906	401878	214860	836957	501990	695939	331195	393794	1413436	1680734	1526123
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	64968	69001	211218	79918	77165	78940	60539	63073	58294	49885	69656	42828	37215	84845	91007	71853
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	6891303	6764178	9379605	7573072	7234217	8338734	5491294	9041977	6883931	5167670	7660614	5340355	5117770	10174304	5148575	8122370
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	2937048	3539690	5275876	4006767	3955509	4366621	3109472	4646567	3238133	2333621	3780006	2534815	2320362	4606207	1941027	3654648
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	786753	827417	686110	962980	784948	668212	657848	665631	654853	492585	713024	586477	461530	442315	300476	382124
